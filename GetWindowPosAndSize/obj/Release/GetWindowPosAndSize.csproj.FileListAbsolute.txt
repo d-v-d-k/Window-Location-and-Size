@@ -1,0 +1,20 @@
+C:\Users\Dan\source\repos\GetWindowPosAndSize\GetWindowPosAndSize\bin\Release\GetWindowPosAndSize.exe.config
+C:\Users\Dan\source\repos\GetWindowPosAndSize\GetWindowPosAndSize\bin\Release\GetWindowPosAndSize.exe
+C:\Users\Dan\source\repos\GetWindowPosAndSize\GetWindowPosAndSize\bin\Release\GetWindowPosAndSize.pdb
+C:\Users\Dan\source\repos\GetWindowPosAndSize\GetWindowPosAndSize\obj\Release\GetWindowPosAndSize.csprojAssemblyReference.cache
+C:\Users\Dan\source\repos\GetWindowPosAndSize\GetWindowPosAndSize\obj\Release\GetWindowPosAndSize.Window.resources
+C:\Users\Dan\source\repos\GetWindowPosAndSize\GetWindowPosAndSize\obj\Release\GetWindowPosAndSize.Properties.Resources.resources
+C:\Users\Dan\source\repos\GetWindowPosAndSize\GetWindowPosAndSize\obj\Release\GetWindowPosAndSize.csproj.GenerateResource.cache
+C:\Users\Dan\source\repos\GetWindowPosAndSize\GetWindowPosAndSize\obj\Release\GetWindowPosAndSize.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\GetWindowPosAndSize\GetWindowPosAndSize\obj\Release\GetWindowPosAndSize.exe
+C:\Users\Dan\source\repos\GetWindowPosAndSize\GetWindowPosAndSize\obj\Release\GetWindowPosAndSize.pdb
+C:\Visual Studio\GetWindowPosAndSize\GetWindowPosAndSize\bin\Release\GetWindowPosAndSize.exe.config
+C:\Visual Studio\GetWindowPosAndSize\GetWindowPosAndSize\bin\Release\GetWindowPosAndSize.exe
+C:\Visual Studio\GetWindowPosAndSize\GetWindowPosAndSize\bin\Release\GetWindowPosAndSize.pdb
+C:\Visual Studio\GetWindowPosAndSize\GetWindowPosAndSize\obj\Release\GetWindowPosAndSize.csprojAssemblyReference.cache
+C:\Visual Studio\GetWindowPosAndSize\GetWindowPosAndSize\obj\Release\GetWindowPosAndSize.Window.resources
+C:\Visual Studio\GetWindowPosAndSize\GetWindowPosAndSize\obj\Release\GetWindowPosAndSize.Properties.Resources.resources
+C:\Visual Studio\GetWindowPosAndSize\GetWindowPosAndSize\obj\Release\GetWindowPosAndSize.csproj.GenerateResource.cache
+C:\Visual Studio\GetWindowPosAndSize\GetWindowPosAndSize\obj\Release\GetWindowPosAndSize.csproj.CoreCompileInputs.cache
+C:\Visual Studio\GetWindowPosAndSize\GetWindowPosAndSize\obj\Release\GetWindowPosAndSize.exe
+C:\Visual Studio\GetWindowPosAndSize\GetWindowPosAndSize\obj\Release\GetWindowPosAndSize.pdb
